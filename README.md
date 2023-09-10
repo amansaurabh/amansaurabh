@@ -7,7 +7,7 @@
 ### <div align="center">I'm Aman Saurabh, a front-end developer 👨‍💻 </div>  
   
 
-- 🌱 I’m currently learning React  
+- 🌱 I’m currently learning NextJS
   
 
 - ❓ Ask me about anything related to Web Development and related technologies  
