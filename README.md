@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Designer
 --------------------------
 
-A web developer who loves making WebApps user-friendly and cool. I've been doing this from the past 2 years, while now and I'm really into ReactJS. Right now, I'm learning about NextJs and TypeScript. Besides coding, I love playing cricket and travelling. Let's chat about web stuff or anything else you're curious about!
+A web developer who loves making WebApps user-friendly and cool. I've been doing this for the past 2 years, while now and I'm really into ReactJS. Right now, I'm learning about NextJs and TypeScript. Besides coding, I love playing cricket and travelling. Let's chat about web stuff or anything else you're curious about!
 
 * 🌍  I'm based in Bangalore
-* 🖥️  See my portfolio at [awesome works](http://https://amansaurabh-portfolio.netlify.app/)
+* 🖥️  See my portfolio at [awesome works](https://amansaurabh-portfolio.netlify.app/)
 * ✉️  You can contact me at [amansaurabh127@gmail.com](mailto:amansaurabh127@gmail.com)
 * 🧠  I'm learning NextJs
 * 🤝  I'm open to collaborating on any project related to web development
