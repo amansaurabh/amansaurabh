@@ -33,6 +33,6 @@ A web developer who loves making WebApps user-friendly and cool. I've been doing
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amansaurabh&theme=calm-pink&border_radius=5.3)](https://git.io/streak-stats)
-[![Aman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amansaurabh&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Aman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amansaurabh&custom_title=Aman%20Saurabh's%20Contributions%20Graph&&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <a href="https://github.com/amansaurabh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansaurabh&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
